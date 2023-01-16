@@ -76,5 +76,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayushsingh05&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayushsingh05&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+<div align="center">
+  <div style="display: flex; gap:5px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushsingh05&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh05&" style="vertical-align: top;" />
+  </div>
+</div>
 <br />
