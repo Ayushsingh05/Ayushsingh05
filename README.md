@@ -17,7 +17,7 @@
 
 <br/>  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushsingh05&label=Profile%20views&color=brightgreen&style=flat" alt="Ayushsingh05" /> </p>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
